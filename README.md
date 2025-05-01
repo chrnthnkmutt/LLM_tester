@@ -1,4 +1,4 @@
-# LLM_tester
+# LLMs Tokenizer and Inference Performance Test
 
 Created By Charunthon Limseelo
 
